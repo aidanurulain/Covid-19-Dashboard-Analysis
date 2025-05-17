@@ -6,6 +6,10 @@
 - SQL Workbench (Data Exploration)
 - Tableau (Data Visualization)
 
+# Raw Data
+- CovidDeaths (https://github.com/aidanurulain/Covid-19-Dashboard-Analysis/blob/main/CovidDeaths.xlsx)
+- CovidVaccinations (https://github.com/aidanurulain/Covid-19-Dashboard-Analysis/blob/main/CovidVaccinations.xlsx)
+
 # Process
 - Begin with initial data check of coviddeaths and covidvaccinations data loaded
 - Clean missing values to standardize missing data
